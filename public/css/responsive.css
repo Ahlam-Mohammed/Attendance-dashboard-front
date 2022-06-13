@@ -1,0 +1,38 @@
+/* category box block */
+@media screen and (max-width: 1162px) {
+    .category{
+        padding: 20px 0 !important;
+        gap: 0rem !important;
+        justify-content: space-around;
+    }
+}
+@media screen and (max-width: 834px) {
+    .box{
+        width: 70px !important;
+        height: 120px !important;
+    }
+    .box__icon{
+        width: 50px !important;
+        height: 50px !important;
+    }
+}
+@media screen and (max-width: 613px) {
+    .category{
+        display: grid !important;
+        grid-template-columns: auto auto;
+        gap: 10px !important;
+    }
+    .box{
+        flex-direction: row;
+        width: 138px !important;
+        height: 40px !important;
+        margin-bottom: 20px
+    }
+    .box__icon {
+        width: 36px !important;
+        height: 36px !important;
+    }
+    .box__icon > i{
+        font-size: 18px
+    }
+}

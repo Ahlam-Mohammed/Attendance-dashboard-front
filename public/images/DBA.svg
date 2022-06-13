@@ -1,0 +1,11 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="222" height="193" viewBox="0 0 222 193">
+    <rect id="Rectangle_1907" data-name="Rectangle 1907" width="222" height="193" rx="40" fill="#d6d9fa"/>
+    <path id="Rectangle_1908" data-name="Rectangle 1908" d="M0,0H222a0,0,0,0,1,0,0V26a40,40,0,0,1-40,40H40A40,40,0,0,1,0,26V0A0,0,0,0,1,0,0Z" transform="translate(0 127)" fill="#edf0ff"/>
+    <ellipse id="Ellipse_396" data-name="Ellipse 396" cx="6" cy="7" rx="6" ry="7" transform="translate(72.529 28)" fill="#fff"/>
+    <ellipse id="Ellipse_397" data-name="Ellipse 397" cx="6.5" cy="7" rx="6.5" ry="7" transform="translate(96.529 28)" fill="#fff"/>
+    <ellipse id="Ellipse_398" data-name="Ellipse 398" cx="6.5" cy="7" rx="6.5" ry="7" transform="translate(120.529 28)" fill="#fff"/>
+    <circle id="Ellipse_399" data-name="Ellipse 399" cx="7" cy="7" r="7" transform="translate(143.529 28)" fill="#fff"/>
+    <path id="Rectangle_1910" data-name="Rectangle 1910" d="M3,0H49a3,3,0,0,1,3,3V25a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V3A3,3,0,0,1,3,0Z" transform="translate(152 101)" fill="#dcdbfd"/>
+    <path id="Rectangle_1911" data-name="Rectangle 1911" d="M20,0h91a20,20,0,0,1,20,20V67a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(9 59)" fill="rgba(176,174,247,0.52)"/>
+    <rect id="Rectangle_1909" data-name="Rectangle 1909" width="52" height="32" rx="3" transform="translate(152 60)" fill="#dcdbfd"/>
+</svg>

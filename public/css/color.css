@@ -1,0 +1,32 @@
+:root{
+    --main-color-darker: #1A3375;
+    --main-color-light: #00AFFA;
+    --main-color-lighter: #EDF0FF;
+
+    --secondary-color: #707070;
+    --secondary-color-lighter: #A2C2CF;
+    --red-color: #F01F1F;
+
+}
+.text-blue{
+    color: var(--main-color-darker);
+}
+.text-blue-light{
+    color: var(--main-color-light);
+}
+.text-secondary{
+    color: var(--secondary-color);
+}
+.text-red{
+    color: var(--red-color);
+}
+
+.bg-blue-light{
+    background: var(--main-color-light);
+}
+.bg-blue{
+    background: var(--main-color-darker);
+}
+.bg-lighter{
+    background: var(--main-color-lighter);
+}

@@ -1,0 +1,7 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="219" height="192" viewBox="0 0 219 192">
+    <rect id="Rectangle_1907" data-name="Rectangle 1907" width="219" height="192" rx="40" fill="#ec739e"/>
+    <path id="Rectangle_1908" data-name="Rectangle 1908" d="M0,0H219a0,0,0,0,1,0,0V26a40,40,0,0,1-40,40H40A40,40,0,0,1,0,26V0A0,0,0,0,1,0,0Z" transform="translate(0 126)" fill="#edf0ff"/>
+    <rect id="Rectangle_1917" data-name="Rectangle 1917" width="76" height="64" rx="20" transform="translate(118 46)" fill="#ee9ebb"/>
+    <rect id="Rectangle_1918" data-name="Rectangle 1918" width="72" height="15" rx="7.5" transform="translate(20 46)" fill="#ee9ebb"/>
+    <rect id="Rectangle_1919" data-name="Rectangle 1919" width="53" height="16" rx="8" transform="translate(17 75)" fill="#ee9ebb"/>
+</svg>
